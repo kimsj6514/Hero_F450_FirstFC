@@ -1,0 +1,16 @@
+# Build output
+build/
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE user-specific files
+.vscode/
+*.suo
+*.user
+*~
