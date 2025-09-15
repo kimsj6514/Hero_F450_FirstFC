@@ -1,4 +1,4 @@
-# STM32F765 기반 커스텀 드론 비행 컨트롤러(FC) 개발
+<img width="808" height="597" alt="스크린샷 2025-09-14 171332" src="https://github.com/user-attachments/assets/4c21613a-dd9d-4cde-a5e3-dd1ea738db5d" /># STM32F765 기반 커스텀 드론 비행 컨트롤러(FC) 개발
 
 **현장 경험을 바탕으로 안정성과 신뢰성을 확보한 고성능 드론 FC를 직접 설계하고 개발하는 개인 프로젝트입니다.**
 
@@ -19,10 +19,11 @@
 - **Library:** `STM32 HAL Driver`
 
 ## 🏗️ 시스템 아키텍처
-(여기에 `FC 설계2.pptx`에 있던 시스템 블록 다이어그램 이미지를 삽입하세요)
+<img width="808" height="597" alt="스크린샷 2025-09-14 171332" src="https://github.com/user-attachments/assets/ead54a0e-4ece-4034-9dd7-6b89ea3470b8" />
 
 ## 🔌 하드웨어 회로도
-(여기에 `kicad_회로도.pdf`의 핵심 회로도 이미지를 캡처해서 삽입하세요)
+<img width="1356" height="873" alt="스크린샷 2025-09-14 170841" src="https://github.com/user-attachments/assets/cbdbd0f7-f369-41e2-8228-cc41f8339667" />
+
 
 ## 🚀 앞으로의 개발 계획
 - [ ] FreeRTOS를 적용하여 멀티태스킹 환경 구축
