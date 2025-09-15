@@ -1,4 +1,4 @@
-<img width="808" height="597" alt="스크린샷 2025-09-14 171332" src="https://github.com/user-attachments/assets/4c21613a-dd9d-4cde-a5e3-dd1ea738db5d" /># STM32F765 기반 커스텀 드론 비행 컨트롤러(FC) 개발
+# STM32F765 기반 커스텀 드론 비행 컨트롤러(FC) 개발
 
 **현장 경험을 바탕으로 안정성과 신뢰성을 확보한 고성능 드론 FC를 직접 설계하고 개발하는 개인 프로젝트입니다.**
 
