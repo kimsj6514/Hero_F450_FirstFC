@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "fd298824-c8d6-4ae8-93f7-5c395521c4e6")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 30.48 29.21)
+		(size 92.71 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4d4edfca-0aee-4348-9f60-347d67fb42e8")
+		(property "Sheetname" "drone12"
+			(at 30.48 27.8634 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "drone12_sch.kicad_sch"
+			(at 30.48 88.7226 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Drone_FC_V1.0"
+				(path "/fd298824-c8d6-4ae8-93f7-5c395521c4e6"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 29.21)
+		(size 93.98 58.42)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e27932d-3d40-4d7b-b8b1-5412c2bbbdfb")
+		(property "Sheetname" "Drone22"
+			(at 132.08 27.8634 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Drone22_sch.kicad_sch"
+			(at 132.08 88.7226 0)
+			(effects
+				(font
+					(size 2.54 2.54)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Drone_FC_V1.0"
+				(path "/fd298824-c8d6-4ae8-93f7-5c395521c4e6"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
